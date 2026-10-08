@@ -48,14 +48,12 @@ python train_strength_model_final.py
 
 ```text
 .
-├── data/
-│   └── steelbench_core_open.csv   # local data; check license before sharing
-├── reports/
-│   └── project_report.md
-├── train_strength_model_final.py
+├── README.md
 ├── density_calculator.py
+├── train_strength_model.py
+├── train_strength_model_final.py
 ├── requirements.txt
-└── README.md
+└── project_report.md
 ```
 
 ## Limitations
